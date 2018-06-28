@@ -1,0 +1,1 @@
+ The system was designed to analyse ecologically suitable regions for the growth of medicinal plants, and it can automatically calculate the Euclidean distance of climatic factors and the intersection with soil factors to identify regions that have high ecological similarity and are both climatically and edaphically suitable for the growth of medicinal plants.
